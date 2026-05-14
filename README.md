@@ -1,7 +1,7 @@
 # alrg-app-legal
 
 Public-facing legal pages for the **Gia** application, an internal-use
-software application operated by AL Realty Group.
+software application operated by ALRG QA Inc.
 
 - [End-User License Agreement](https://lukasz0221-giaos.github.io/alrg-app-legal/eula.html)
 - [Privacy Policy](https://lukasz0221-giaos.github.io/alrg-app-legal/privacy.html)
